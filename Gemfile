@@ -27,6 +27,10 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.0.1'
 gem 'pry-rails', :group => :development
+gem 'ember-rails',github: 'emberjs/ember-rails'
+gem 'active_model_serializers', github: 'rails-api/active_model_serializers'
+gem 'anjlab-bootstrap-rails', :require => 'bootstrap-rails',    :git => 'git://github.com/anjlab/bootstrap-rails.git'
+
 
 
 # To use ActiveModel has_secure_password
