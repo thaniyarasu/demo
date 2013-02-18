@@ -31,7 +31,7 @@ gem 'ember-rails',github: 'emberjs/ember-rails'
 gem 'active_model_serializers', github: 'rails-api/active_model_serializers'
 gem 'anjlab-bootstrap-rails', :require => 'bootstrap-rails',    :git => 'git://github.com/anjlab/bootstrap-rails.git'
 
-
+gem 'kaminari'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'

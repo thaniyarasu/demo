@@ -15,8 +15,8 @@
 //= require turbolinks
 //= require twitter/bootstrap
 //= require handlebars
-//= require ember
-//= require ember-data
+//= require ./ember
+//= require ./ember-data
 //= require_self
 //= require demo
 //= require_tree .

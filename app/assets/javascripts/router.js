@@ -1,3 +1,0 @@
-Demo.Router.map(function() {
-
-});
